@@ -1,0 +1,15 @@
+body {
+    font-family: Arial;
+    background-color:orange;
+}
+
+body h1{
+    color:#000000;
+    text-align: center;
+}
+#BlueBook {
+    float: left;
+}
+#CarrotBook {
+    float: left;
+}
